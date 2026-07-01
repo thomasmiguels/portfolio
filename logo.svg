@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#080f1a"/>
+  
+  <g transform="translate(250, 250)">
+    <text 
+      direction="ltr"
+      font-family="'Plus Jakarta Sans', 'Inter', 'Helvetica Neue', sans-serif" 
+      font-size="115" 
+      font-weight="700" 
+      letter-spacing="-4" 
+      text-anchor="middle" 
+      dominant-baseline="central"
+    >
+      <tspan fill="#f4f1ea">MT</tspan>
+      <tspan fill="#e8e2d5" font-family="sans-serif" letter-spacing="0">.</tspan>
+    </text>
+  </g>
+</svg>
